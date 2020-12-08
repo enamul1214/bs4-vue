@@ -1,0 +1,34 @@
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199px) {
+
+}
+// (desktops, less than 1200px)
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991px) { 
+    
+}
+//(tablets, less than 992px)
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767px) { 
+    .navbar-nav {
+        display: block;
+
+        .nav-link {
+            padding: .5rem 0 !important;
+            &.nav-button {
+                display: inline-block;
+                padding: .2rem 1rem !important;
+                margin: 5px 0 !important;
+            }
+        }
+    }
+}
+//(landscape phones, less than 768px)
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575px) { 
+    
+}
+//(portrait phones, less than 576px)
