@@ -1,2 +1,4 @@
 # bs4-vue
-bootstrap 4.5 and vuejs 3
+-bootstrap 4.5
+-vuejs 3
+-scss/sass
