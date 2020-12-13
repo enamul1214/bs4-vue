@@ -12,18 +12,7 @@
 
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 767px) { 
-    .navbar-nav {
-        display: block;
-
-        .nav-link {
-            padding: .5rem 0 !important;
-            &.nav-button {
-                display: inline-block;
-                padding: .2rem 1rem !important;
-                margin: 5px 0 !important;
-            }
-        }
-    }
+    
 }
 //(landscape phones, less than 768px)
 
